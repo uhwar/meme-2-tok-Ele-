@@ -1,0 +1,9 @@
+paw
+paficlib
+gTTS
+pip
+Flask
+flask-cors
+gunicorn
+tiktok-tts
+requests
